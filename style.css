@@ -8,6 +8,8 @@ body {
     font-family: 'Barlow', sans-serif;
     background: #ccc;
     overflow-x: hidden;
+    background: url("./macbook-pro-m1.webp") no-repeat center center / cover;
+    height: 100vh;
 }
 a {
     text-decoration: none;
